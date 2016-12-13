@@ -1,0 +1,10 @@
+commands
+	git log
+	git diff
+	git checkout - Allows to run previous version of code so for example we can find out where a bug may have been introduced.
+	git init
+	git status
+	
+	547f4171a82ec6429d002c1acef357aec41d3f17
+	
+	708bcce690e5faa5739bd471507c102ea16b77f7
